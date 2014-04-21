@@ -7,5 +7,5 @@
 
 ```
 > bundle install --path vendor/bundle
-> bundle exec USERNAME=yourusername PASSWORD=yourpassword ruby scrape.rb
+> USERNAME=yourusername PASSWORD=yourpassword bundle exec ruby scrape.rb
 ```
